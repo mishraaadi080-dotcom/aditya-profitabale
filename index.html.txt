@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mishra notbook holsale</title>
+    <style>
+        body {
+            font-family: Arial;
+            background-color: #f4f4f4;
+            text-align: center;
+        }
+        h1 {
+            background-color: green;
+            color: white;
+            padding: 15px;
+        }
+        .product {
+            background: white;
+            margin: 20px auto;
+            padding: 15px;
+            width: 300px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px gray;
+        }
+        button {
+            background-color: orange;
+            border: none;
+            padding: 10px;
+            color: white;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+        button:hover {
+            background-color: darkorange;
+        }
+    </style>
+</head>
+
+<body>
+
+<h1>Mishra notebook holsale (Bhagalpur)</h1>
+<p>District me Home Delivery Available 🚚</p>
+
+<div class="product">
+    <h3>eoconomy 58gsm 396pg 1pcs</h3>
+    <p>Price: ₹190</p>
+    <a href="https://wa.me/91XXXXXXXXXX?text=I want to order Aata 5kg">
+        <button>Order on WhatsApp</button>
+    </a>
+</div>
+
+<div class="product">
+    <h3>180pg 1pcs</h3>
+    <p>Price: ₹90</p>
+    <a href="https://wa.me/91XXXXXXXXXX?text=I want to order Chawal 1kg">
+        <button>Order on WhatsApp</button>
+    </a>
+</div>
+
+<div class="product">
+    <h3>t.premium400pg-1pcs 1L</h3>
+    <p>Price: ₹210</p>
+    <a href="https://wa.me/91XXXXXXXXXX?text=I want to order Tel 1L">
+        <button>Order on WhatsApp</button>
+    </a>
+</div>
+
+<h2>Payment Option</h2>
+<p>UPI Payment Accepted</p>
+<p>UPI ID: yourupi@bank</p>
+
+<p>Contact: 917319635640</p>
+
+</body>
+</html>
